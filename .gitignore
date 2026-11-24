@@ -1,0 +1,10 @@
+__pycache__/
+.venv/
+*.py[cod]
+*.pth
+/cache/
+/data/
+/images_305/
+/reproduction/
+/synth/
+/leaves*.csv
