@@ -1,0 +1,7 @@
+lesion,placement,share_margin,share_tip,expected_if_even
+chlorotic,margin,0.6675417962580018,0.41852210681371843,"margin 0.33, tip 0.25"
+chlorotic,random,0.3555269678889068,0.25317881756126287,"margin 0.33, tip 0.25"
+chlorotic,tip,0.5439940933085473,0.5502426668353276,"margin 0.33, tip 0.25"
+necrotic,margin,0.6943586458273803,0.4298066605683644,"margin 0.33, tip 0.25"
+necrotic,random,0.3126496594415592,0.24448962636518354,"margin 0.33, tip 0.25"
+necrotic,tip,0.5480626241887372,0.599947217756606,"margin 0.33, tip 0.25"

@@ -1,0 +1,24 @@
+{
+  "calibration_auc": 0.7317541522345334,
+  "frozen_at": "2026-11-19 15:54:06",
+  "n_calibration_plants": 22,
+  "sha256": "d9746e705d1a99316a3614601c4919d995732e90396ad7a36e85711ea71ea034",
+  "split_seed": 42,
+  "zone_config": {
+    "b1": 70.0,
+    "b2": 120.0,
+    "dark_L": 24.0,
+    "erosion_frac": 0.01,
+    "glare_mode": "broad",
+    "healthy_hi": 250.0,
+    "lowC": 10.0,
+    "minC_coloured": 15.0,
+    "necrotic_hue_lo": 45.0,
+    "recover_tips": false,
+    "red_hi": 45.0,
+    "red_lo": 300.0,
+    "severity_cutoff": 2.3900797515007333,
+    "trim_frac": 0.04,
+    "wb_mode": "raw"
+  }
+}
